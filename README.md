@@ -1,7 +1,7 @@
 # Analyse des Indicateurs Clés de Performance (KPIs)
 ## Contexte du projet
 
-Ce projet a pour objectif d’analyser la performance commerciale d’un site ecommerce à travers plusieurs **indicateurs clés (KPIs)** liés au comportement des clients.  
+Ce projet a pour objectif d’analyser la performance commerciale du site ecommerce ShopSmart à travers plusieurs **indicateurs clés (KPIs)** liés au comportement des clients.  
 L’étude vise à fournir des **insights exploitables** pour les équipes marketing, produit et direction afin d’orienter les décisions stratégiques et opérationnelles.
 
 Les données ont été traitées en Postgres, modélisation en DBTCloud et visualisées en Power BI.
@@ -77,5 +77,6 @@ Les données ont été traitées en Postgres, modélisation en DBTCloud et visua
 ##  Auteurs
 **Projet Data – Étude des performances ecommerce**  
 Développé par : Teddy PRIVAT et Ronalyn PEQUET
+
 
 
