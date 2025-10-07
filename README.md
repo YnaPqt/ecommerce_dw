@@ -83,7 +83,8 @@ Les données ont été traitées en Postgres, modélisation en DBTCloud et visua
 
 ##  Auteurs
 **Projet Data – Étude des performances ecommerce**  
-Développé par : Teddy PRIVAT et Ronalyn PEQUET
+Développé par : Teddy PRIVAT - Ronalyn PEQUET
+
 
 
 
