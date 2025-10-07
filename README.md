@@ -22,7 +22,7 @@ Les données ont été traitées en Postgres, modélisation en DBTCloud et visua
 - customers.csv
 - products.csv
 
-## Création de la base de données en Postgrès
+## Création de la base de données Postgrès
 
 ![alt text](</images/base_ecommerce.png>)
 
@@ -77,6 +77,7 @@ Les données ont été traitées en Postgres, modélisation en DBTCloud et visua
 ##  Auteurs
 **Projet Data – Étude des performances ecommerce**  
 Développé par : Teddy PRIVAT et Ronalyn PEQUET
+
 
 
 
