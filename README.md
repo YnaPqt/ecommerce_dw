@@ -60,4 +60,3 @@ Les données ont été traitées en Postgres et visualisées en Power BI.
 ##  Auteurs
 **Projet Data – Étude des performances ecommerce**  
 Développé par : Teddy PRIVAT et Ronalyn PEQUET
-Période d’analyse : *2023 – 2025*
