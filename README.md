@@ -6,12 +6,29 @@ L’étude vise à fournir des **insights exploitables** pour les équipes marke
 
 Les données ont été traitées en Postgres, modélisation en DBTCloud et visualisées en Power BI.
 
-## Objectifs
+## Identifications des indicateurs clés
 1. Identifier les tendances d’évolution du **chiffre d’affaires** et du **panier moyen**.  
 2. Comprendre le **délai de conversion** entre inscription et première commande.  
 3. Identifier les **produits les plus performants** et ceux à faible rotation.  
 4. Suivre l’évolution du **nombre de nouveaux clients par mois**.  
 
+## Définition des rôles
+- Data analyst
+- Admin
+
+## Source de données
+- orders.csv
+- order_items.csv
+- customers.csv
+- products.csv
+
+## Création de la base de données en Postgrès
+
+![alt text](</images/base_ecommerce.png>)
+
+## Gestion des rôles 
+
+![alt text](</images/roles.png>)
 ## Indicateurs clés de performance (KPIs)
 
 ### 1. KPI - Chiffre d’affaires par mois
