@@ -4,7 +4,7 @@
 Ce projet a pour objectif d’analyser la performance commerciale d’un site ecommerce à travers plusieurs **indicateurs clés (KPIs)** liés au comportement des clients.  
 L’étude vise à fournir des **insights exploitables** pour les équipes marketing, produit et direction afin d’orienter les décisions stratégiques et opérationnelles.
 
-Les données ont été traitées en Postgres, modélisation des données en DBTCloud et visualisées en Power BI.
+Les données ont été traitées en Postgres, modélisation en DBTCloud et visualisées en Power BI.
 
 ## Objectifs
 1. Identifier les tendances d’évolution du **chiffre d’affaires** et du **panier moyen**.  
@@ -60,4 +60,5 @@ Les données ont été traitées en Postgres, modélisation des données en DBTC
 ##  Auteurs
 **Projet Data – Étude des performances ecommerce**  
 Développé par : Teddy PRIVAT et Ronalyn PEQUET
+
 
