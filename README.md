@@ -6,11 +6,18 @@ L’étude vise à fournir des **insights exploitables** pour les équipes marke
 
 Les données ont été traitées en Postgres, modélisation en DBTCloud et visualisées en Power BI.
 
-## Identifications des indicateurs clés
+## Objectifs
 1. Identifier les tendances d’évolution du **chiffre d’affaires** et du **panier moyen**.  
 2. Comprendre le **délai de conversion** entre inscription et première commande.  
 3. Identifier les **produits les plus performants** et ceux à faible rotation.  
 4. Suivre l’évolution du **nombre de nouveaux clients par mois**.  
+
+## Identifications des indicateurs clés (KPIs)
+1. Chiffre d'affaires mensuel
+2. Panier moyen mensuel
+3. Temps moyen entre l'inscription et la première commande
+4. Classement des produits plus vendus et moins vendus
+5. Nombre de nouveaux clients par mois
 
 ## Définition des rôles
 - Data analyst
