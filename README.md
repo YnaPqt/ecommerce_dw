@@ -45,7 +45,7 @@ Les données ont été traitées en Postgres et visualisées en Power BI.
 ![alt text](images/nb_nouveaux_clients.png)
 
 - **Création du nombre de nouveaux clients dans la base Postgres**
-![alt text](images/sql_nb_nouveaux_clients.png)
+![alt text](images/sql_nb_nvx_clients.png)
 
 ### 5. KPI - Temps moyen entre inscription et première commande
 - **Définition :** Nombre moyen de jours de la tendance entre la date d’inscription et la première commande.  
