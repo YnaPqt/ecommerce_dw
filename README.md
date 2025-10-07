@@ -54,7 +54,8 @@ Les données ont été traitées en Postgres et visualisées en Power BI.
 ![alt text](images/temps_moyen_inscription_commande.png)
 
 - **Création du temps moyen entre inscription et première commande dans la base Postgres**
-![alt text](<images/sql_temps_moyen_inscription_order.png>)
+
+![alt text](images/sql_temps_moyen_inscription_order.png)
 
 ##  Auteurs
 **Projet Data – Étude des performances ecommerce**  
