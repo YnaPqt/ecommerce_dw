@@ -26,7 +26,7 @@ Les données ont été traitées en Postgres et visualisées en Power BI.
 - **Définition :** Montant moyen dépensé par commande. 
 - **Intérêt :** Indique la capacité de l’entreprise à attirer de nouveaux clients par des campagnes promotionnelles.
 
-![alt text](</images/panier_moyen.png>)
+![alt text](images/panier_moyen.png)
 
 - **Création de la vue panier_moyen dans la base Postgres**
 ![alt text](images/sql_panier_moyen.png)
@@ -50,10 +50,11 @@ Les données ont été traitées en Postgres et visualisées en Power BI.
 ### 5. KPI - Temps moyen entre inscription et première commande
 - **Définition :** Nombre moyen de jours de la tendance entre la date d’inscription et la première commande.  
 - **Intérêt :** Mesure l’efficacité du parcours client initial et  la rapidité de conversion.
+
 ![alt text](images/temps_moyen_inscription_commande.png)
 
 - **Création du temps moyen entre inscription et première commande dans la base Postgres**
-![alt text](images/sql_temps_moyen_inscription_commande.png)
+![alt text](<images/sql_temps_moyen_inscription_order.png>)
 
 ##  Auteurs
 **Projet Data – Étude des performances ecommerce**  
